@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.sarthaindia.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.sarthaindia.com/services/tourism-representation</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sarthaindia.com/services/public-relations</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sarthaindia.com/services/consumer-promotions</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sarthaindia.com/services/digital-and-social-media</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sarthaindia.com/services/hotel-sales-and-marketing</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sarthaindia.com/services/trade-shows-and-events</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sarthaindia.com/services/market-intelligence-and-research</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.sarthaindia.com/services/brand-management-and-advertising-support</loc>
+  <priority>0.80</priority>
+</url>
+</urlset>
